@@ -3,7 +3,7 @@
 <table>
   <tr>
     <td>
-      <b>`Desenvolvedor Backend e Salesforce`</b>
+      <b> Desenvolvedor Backend e Salesforce </b>
       <br/><br/>
       Sou desenvolvedor Salesforce especializado em <b>Apex, LWC e administração da plataforma</b>, com sólida base em linguagens backend como <b>Java, Python, .NET e Node.js</b>.<br/><br/>
       Atuo criando soluções escaláveis, integradas e de alto impacto, unindo a experiência em <b>CRM Salesforce</b> com boas práticas de desenvolvimento backend.<br/><br/>
