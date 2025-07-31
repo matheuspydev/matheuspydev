@@ -1,17 +1,23 @@
-# 🧑🏻‍💻 Matheus Henrique
+
 
 <table>
   <tr>
-    <td>
-      <b> Desenvolvedor Backend e Salesforce </b>
-      <br/><br/>
-      Sou desenvolvedor Salesforce especializado em <b>Apex, LWC e administração da plataforma</b>, com sólida base em linguagens backend como <b>Java, Python, .NET e Node.js</b>.<br/><br/>
-      Atuo criando soluções escaláveis, integradas e de alto impacto, unindo a experiência em <b>CRM Salesforce</b> com boas práticas de desenvolvimento backend.<br/><br/>
-      Minha trajetória profissional é marcada pela constante busca por aprendizado e evolução técnica. Venho de uma formação interdisciplinar, trazendo a visão analítica adquirida na Química e aplicando-a na área de tecnologia para resolver problemas complexos de forma estruturada e eficiente.<br/><br/>
-      Valorizo a colaboração, a qualidade do código e o compromisso com a entrega de resultados que gerem valor real para o negócio.
-    </td>
-    <td>
-      <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3cTY1b25waDh0ZHUybTYzN2t6OTV4aXJ5NndlbjlzNXY5dzM1ZjFtcCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/EZr27ZbJwmjE9PGyLN/giphy.gif" width="230px" />
+    <td width="65%" valign="top">
+
+## Hello, I'm Matheus Henrique 👋  
+
+I'm a **Backend & Salesforce Developer** passionate about building scalable and smart solutions.
+
+### About me
+- 🛠️ **Especialista em Salesforce** (Apex, LWC e administração da plataforma)
+- 🔗 Experiência também com **Java, Python, .NET e Node.js**
+- 🧪 De formação em Química para tecnologia: curiosidade que virou código
+- 🚀 Adoro aprender, colaborar e transformar problemas complexos em soluções simples
+
+
+</td>
+    <td width="35%" align="center" valign="middle">
+      <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3VpeW4zNzdzMjJsaGtoeGdpcDF4bDh4N2d6N2V4MG9rbWZtZjZocyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/jx4jKhrKvifvCZtyN5/giphy.gif" width="250px" />
     </td>
   </tr>
 </table>
@@ -68,7 +74,3 @@
     style="padding-right: 10px;" 
     src="https://cdn.worldvectorlogo.com/logos/salesforce-2.svg"
 />
-
-<br/>
-<br/>
-<br/>
