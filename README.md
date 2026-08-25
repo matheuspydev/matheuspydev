@@ -24,31 +24,7 @@ I'm a **Backend & Salesforce Developer** who likes building systems that stay si
 
 <img src="https://raw.githubusercontent.com/matheuspydev/matheuspydev/main/assets/divider.svg" width="100%">
 
-### &#9613;&nbsp; Tech stack
 
-**Salesforce**
-
-<img src="https://img.shields.io/badge/Apex-0B2A6F?style=for-the-badge&amp;logo=salesforce&amp;logoColor=D6E455&amp;labelColor=050F2A" alt="Apex">
-<img src="https://img.shields.io/badge/Lightning_Web_Components-0B2A6F?style=for-the-badge&amp;logo=salesforce&amp;logoColor=D6E455&amp;labelColor=050F2A" alt="Lightning Web Components">
-<img src="https://img.shields.io/badge/Platform_Administration-0B2A6F?style=for-the-badge&amp;logo=salesforce&amp;logoColor=D6E455&amp;labelColor=050F2A" alt="Platform Administration">
-
-**Backend**
-
-<img src="https://img.shields.io/badge/Java-0B2A6F?style=for-the-badge&amp;logo=openjdk&amp;logoColor=A9C7FF&amp;labelColor=050F2A" alt="Java">
-<img src="https://img.shields.io/badge/Python-0B2A6F?style=for-the-badge&amp;logo=python&amp;logoColor=A9C7FF&amp;labelColor=050F2A" alt="Python">
-<img src="https://img.shields.io/badge/.NET-0B2A6F?style=for-the-badge&amp;logo=dotnet&amp;logoColor=A9C7FF&amp;labelColor=050F2A" alt=".NET">
-<img src="https://img.shields.io/badge/Node.js-0B2A6F?style=for-the-badge&amp;logo=nodedotjs&amp;logoColor=A9C7FF&amp;labelColor=050F2A" alt="Node.js">
-
-**Web &amp; data**
-
-<img src="https://img.shields.io/badge/TypeScript-0B2A6F?style=for-the-badge&amp;logo=typescript&amp;logoColor=A9C7FF&amp;labelColor=050F2A" alt="TypeScript">
-<img src="https://img.shields.io/badge/JavaScript-0B2A6F?style=for-the-badge&amp;logo=javascript&amp;logoColor=A9C7FF&amp;labelColor=050F2A" alt="JavaScript">
-<img src="https://img.shields.io/badge/React-0B2A6F?style=for-the-badge&amp;logo=react&amp;logoColor=A9C7FF&amp;labelColor=050F2A" alt="React">
-<img src="https://img.shields.io/badge/PostgreSQL-0B2A6F?style=for-the-badge&amp;logo=postgresql&amp;logoColor=A9C7FF&amp;labelColor=050F2A" alt="PostgreSQL">
-<img src="https://img.shields.io/badge/Redis-0B2A6F?style=for-the-badge&amp;logo=redis&amp;logoColor=A9C7FF&amp;labelColor=050F2A" alt="Redis">
-<img src="https://img.shields.io/badge/Git-0B2A6F?style=for-the-badge&amp;logo=git&amp;logoColor=A9C7FF&amp;labelColor=050F2A" alt="Git">
-
-<img src="https://raw.githubusercontent.com/matheuspydev/matheuspydev/main/assets/divider.svg" width="100%">
 
 ### &#9613;&nbsp; Projects
 
