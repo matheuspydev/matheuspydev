@@ -1,0 +1,111 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="340" viewBox="0 0 1280 340" role="img" aria-label="Matheus Henrique - Backend and Salesforce Developer">
+  <title>Matheus Henrique — Backend &amp; Salesforce Developer</title>
+  <defs>
+    <linearGradient id="sky" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#01030C"/>
+      <stop offset="42%" stop-color="#050F2A"/>
+      <stop offset="100%" stop-color="#0B2F82"/>
+    </linearGradient>
+
+    <linearGradient id="slashA" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#3E6BFF" stop-opacity="0"/>
+      <stop offset="45%" stop-color="#3E6BFF" stop-opacity=".85"/>
+      <stop offset="100%" stop-color="#0B2A6F" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="slashB" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#7FA6FF" stop-opacity="0"/>
+      <stop offset="60%" stop-color="#7FA6FF" stop-opacity=".55"/>
+      <stop offset="100%" stop-color="#7FA6FF" stop-opacity="0"/>
+    </linearGradient>
+
+    <radialGradient id="moonGlow">
+      <stop offset="0%" stop-color="#DCEC5E" stop-opacity=".50"/>
+      <stop offset="38%" stop-color="#A6C22C" stop-opacity=".16"/>
+      <stop offset="100%" stop-color="#A6C22C" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="moonBody" cx="36%" cy="32%" r="78%">
+      <stop offset="0%" stop-color="#F6FAA6"/>
+      <stop offset="52%" stop-color="#D6E455"/>
+      <stop offset="100%" stop-color="#8CA321"/>
+    </radialGradient>
+
+    <pattern id="dots" width="15" height="15" patternUnits="userSpaceOnUse">
+      <circle cx="3.5" cy="3.5" r="1.7" fill="#4C7BFF"/>
+    </pattern>
+    <linearGradient id="dotsFade" x1="0" y1="1" x2="1" y2="0">
+      <stop offset="0%" stop-color="#ffffff" stop-opacity=".55"/>
+      <stop offset="55%" stop-color="#ffffff" stop-opacity="0"/>
+    </linearGradient>
+    <mask id="dotsMask"><rect width="1280" height="340" fill="url(#dotsFade)"/></mask>
+
+    <pattern id="scan" width="3" height="3" patternUnits="userSpaceOnUse">
+      <rect width="3" height="1" fill="#9FC0FF" fill-opacity=".05"/>
+    </pattern>
+
+    <linearGradient id="rule" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#6E97FF"/>
+      <stop offset="40%" stop-color="#2A55D8"/>
+      <stop offset="100%" stop-color="#0A1B45" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="baseline" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#D6E455"/>
+      <stop offset="12%" stop-color="#4C7BFF"/>
+      <stop offset="70%" stop-color="#12307E"/>
+      <stop offset="100%" stop-color="#050F2A"/>
+    </linearGradient>
+
+    <filter id="soft" x="-30%" y="-30%" width="160%" height="160%">
+      <feGaussianBlur stdDeviation="9"/>
+    </filter>
+    <filter id="drop" x="-20%" y="-40%" width="140%" height="200%">
+      <feDropShadow dx="0" dy="5" stdDeviation="7" flood-color="#000208" flood-opacity=".75"/>
+    </filter>
+  </defs>
+
+  <!-- night sky -->
+  <rect width="1280" height="340" fill="url(#sky)"/>
+
+
+  <!-- angular light shafts -->
+  <g transform="skewX(-17)">
+    <rect x="700"  y="-60" width="8"   height="460" fill="url(#slashB)" opacity=".45"/>
+    <rect x="742"  y="-60" width="9"   height="460" fill="#D6E455" opacity=".17"/>
+    <rect x="812"  y="-60" width="120" height="460" fill="url(#slashA)" opacity=".55"/>
+    <rect x="960"  y="-60" width="26"  height="460" fill="url(#slashB)" opacity=".85"/>
+    <rect x="1006" y="-60" width="62"  height="460" fill="url(#slashA)" opacity=".38"/>
+    <rect x="1132" y="-60" width="150" height="460" fill="url(#slashA)" opacity=".30"/>
+  </g>
+  <!-- the moon -->
+  <g>
+    <circle cx="1076" cy="116" r="205" fill="url(#moonGlow)"/>
+    <circle cx="1076" cy="116" r="72" fill="#B9CE3A" opacity=".32" filter="url(#soft)"/>
+    <circle cx="1076" cy="116" r="58" fill="url(#moonBody)"/>
+    <circle cx="1056" cy="98"  r="10"  fill="#8DA42A" opacity=".16"/>
+    <circle cx="1092" cy="130" r="6.5" fill="#8DA42A" opacity=".14"/>
+    <circle cx="1068" cy="138" r="4.5" fill="#8DA42A" opacity=".12"/>
+  </g>
+
+  <!-- halftone -->
+  <rect width="1280" height="340" fill="url(#dots)" mask="url(#dotsMask)"/>
+  <rect width="1280" height="340" fill="url(#scan)"/>
+
+  <!-- text plate -->
+  <g transform="translate(78,0)">
+    <g filter="url(#drop)">
+      <rect x="-4" y="112" width="9" height="30" fill="#D6E455"/>
+      <text x="22" y="135" font-family="'Segoe UI Semibold','Helvetica Neue',Arial,sans-serif"
+            font-size="17" letter-spacing="7" fill="#9FC0FF">BELO HORIZONTE · BRASIL</text>
+
+      <text x="-2" y="216" font-family="'Arial Black','Segoe UI Black',Impact,'Helvetica Neue',sans-serif"
+            font-weight="900" font-size="70" letter-spacing="1.5" fill="#FFFFFF">MATHEUS HENRIQUE</text>
+    </g>
+
+    <rect x="-2" y="238" width="760" height="4" fill="url(#rule)"/>
+
+    <text x="-2" y="282" font-family="'Segoe UI Semibold','Helvetica Neue',Arial,sans-serif"
+          font-size="19" letter-spacing="5.5" fill="#8FB3FF">BACKEND<tspan fill="#D6E455" dx="14" dy="0">◆</tspan><tspan fill="#8FB3FF" dx="14">SALESFORCE</tspan><tspan fill="#D6E455" dx="14">◆</tspan><tspan fill="#8FB3FF" dx="14">APEX</tspan><tspan fill="#D6E455" dx="14">◆</tspan><tspan fill="#8FB3FF" dx="14">JAVA</tspan><tspan fill="#D6E455" dx="14">◆</tspan><tspan fill="#8FB3FF" dx="14">PYTHON</tspan></text>
+  </g>
+
+  <!-- baseline -->
+  <rect x="0" y="334" width="1280" height="6" fill="url(#baseline)"/>
+</svg>
