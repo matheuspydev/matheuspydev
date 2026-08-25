@@ -1,0 +1,54 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="150" viewBox="0 0 640 150" role="img" aria-label="Language mix across 6 public repositories">
+  <title>Language mix — 6 public repositories</title>
+  <defs>
+    <linearGradient id="shine" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#ffffff" stop-opacity="0"/>
+      <stop offset="50%" stop-color="#ffffff" stop-opacity=".30"/>
+      <stop offset="100%" stop-color="#ffffff" stop-opacity="0"/>
+    </linearGradient>
+    <radialGradient id="moonGlow">
+      <stop offset="0%" stop-color="#D6E455" stop-opacity=".55"/>
+      <stop offset="100%" stop-color="#D6E455" stop-opacity="0"/>
+    </radialGradient>
+    <clipPath id="barClip">
+      <rect x="20" y="48" width="600" height="14" rx="4"/>
+    </clipPath>
+  </defs>
+
+  <rect x=".5" y=".5" width="639" height="149" rx="6" fill="#050F2A" stroke="#1B3E9E"/>
+  <rect x="1" y="1" width="4" height="148" fill="#D6E455" opacity=".85"/>
+
+  <text x="20" y="30" font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-size="12" letter-spacing="3" fill="#8FB3FF">LANGUAGE MIX</text>
+  <text x="602" y="30" text-anchor="end" font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-size="12" letter-spacing="1.5" fill="#5A79B5">6 PUBLIC REPOS</text>
+
+  <!-- moon accent: pulses if SMIL runs, otherwise stays a static dot -->
+  <circle cx="614" cy="26" r="9" fill="url(#moonGlow)">
+    <animate attributeName="r" values="8;12;8" dur="3.6s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="614" cy="26" r="4" fill="#D6E455"/>
+
+  <g font-family="'Segoe UI',Helvetica,Arial,sans-serif">
+    <g clip-path="url(#barClip)">
+      <rect x="20" y="48" width="600" height="14" fill="#0B1E4A"/>
+      <rect x="20.00" y="48" width="171.93" height="14" fill="#D6E455"/>
+      <rect x="191.93" y="48" width="120.52" height="14" fill="#7FA6FF"/>
+      <rect x="312.45" y="48" width="116.49" height="14" fill="#4C7BFF"/>
+      <rect x="428.94" y="48" width="116.26" height="14" fill="#2A55D8"/>
+      <rect x="545.20" y="48" width="66.66" height="14" fill="#1B3E9E"/>
+      <rect x="611.86" y="48" width="8.14" height="14" fill="#12306E"/>
+      <!-- highlight sweep: parked off-canvas, so no animation means no artefact -->
+      <rect x="-600" y="48" width="140" height="14" fill="url(#shine)">
+        <animate attributeName="x" from="-120" to="620" dur="2.8s" begin="0s" repeatCount="indefinite"/>
+      </rect>
+    </g>
+
+    <rect x="20" y="84" width="9" height="9" rx="2" fill="#D6E455"/><text x="36" y="92" font-size="12" fill="#8FB3FF">TypeScript<tspan fill="#5A79B5" dx="6">28.7%</tspan></text>
+    <rect x="220" y="84" width="9" height="9" rx="2" fill="#7FA6FF"/><text x="236" y="92" font-size="12" fill="#8FB3FF">HTML<tspan fill="#5A79B5" dx="6">20.1%</tspan></text>
+    <rect x="420" y="84" width="9" height="9" rx="2" fill="#4C7BFF"/><text x="436" y="92" font-size="12" fill="#8FB3FF">Java<tspan fill="#5A79B5" dx="6">19.4%</tspan></text>
+    <rect x="20" y="106" width="9" height="9" rx="2" fill="#2A55D8"/><text x="36" y="114" font-size="12" fill="#8FB3FF">CSS<tspan fill="#5A79B5" dx="6">19.4%</tspan></text>
+    <rect x="220" y="106" width="9" height="9" rx="2" fill="#1B3E9E"/><text x="236" y="114" font-size="12" fill="#8FB3FF">JavaScript<tspan fill="#5A79B5" dx="6">11.1%</tspan></text>
+    <rect x="420" y="106" width="9" height="9" rx="2" fill="#12306E"/><text x="436" y="114" font-size="12" fill="#8FB3FF">Other<tspan fill="#5A79B5" dx="6">1.4%</tspan></text>
+
+    <text x="20" y="138" font-size="10" letter-spacing="1" fill="#5A79B5">363 KB OF CODE · UPDATED 2026-08-25</text>
+  </g>
+</svg>
